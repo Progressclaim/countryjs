@@ -79,7 +79,7 @@ To access one of the country properties available, you'll need to use one of the
 
 - Using the ISO-alpha2 code: `country.population('US', 'ISO2')` or `country.area('JP')` (defaults)
 - Using the ISO-alpha3 code: `country.capital('GBR', 'ISO3)`
-- Using the country name: `country.wiki('france', 'name')`. The matching is case-insensitive, against the native name, alternative spellings and available transalations.
+- Using the country name: `country.wiki('france', 'name')`. The matching is case-insensitive, against the native name, alternative spellings and available translations.
 
 ## API
 
